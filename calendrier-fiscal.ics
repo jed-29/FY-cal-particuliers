@@ -44,40 +44,22 @@ SUMMARY:Taxes foncières : date limite de paiement
 UID:9fc9cec2255d5caf87fdaf72470e7b703ba23b6c@calendrier-fiscal-particulier-impots
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-DESCRIPTION:Acompte au titre du prélèvement à la source des revenus sans collecteurs (revenus des indépendants ou agriculteurs\, revenus fonciers\, pensions alimentaires…).\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal
-SUMMARY:6ème prélèvement mensuel d'acompte PAS
-UID:3567bdc1087ff5d78f7323b432ec7c6cbf51bc5a@calendrier-fiscal-particulier-impots
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Acompte au titre du prélèvement à la source des revenus sans collecteurs (revenus des indépendants ou agriculteurs\, revenus fonciers\, pensions alimentaires…).\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal/2026-07
-SUMMARY:7ème prélèvement mensuel d'acompte PAS
-UID:cd4b86214a7bd3bbeadc6f764816e3f245afcf78@calendrier-fiscal-particulier-impots
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261116
 DESCRIPTION:Pour tous les impôts mensualisés (taxes foncières et d'habitation\, impôt sur la fortune immobilière et CFE)\, vous continuez d'être prélevé en cas de hausse de votre impôt en 2026 : consultez l’échéancier sur votre avis.\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal/2026-11
 SUMMARY:Prélèvement mensuel
 UID:f7a1b30c6617f26866b6ffc11876d3943367e3bd@calendrier-fiscal-particulier-impots
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260604
-DESCRIPTION:Date limite de dépôt de la déclaration 2026 de revenus 2025\, et de la déclaration 2025 d'impôt sur la fortune immobilière par internet pour les départements n° 55 à 976.\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal
-SUMMARY:Date limite de déclaration de revenus en ligne Zone 3
-UID:3d4efdf92ba5739e1f8065a540d9afd2cddfedfb@calendrier-fiscal-particulier-impots
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:Acompte au titre du prélèvement à la source des revenus sans collecteurs (revenus des indépendants ou agriculteurs\, revenus fonciers\, pensions alimentaires…).\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal
+SUMMARY:7ème prélèvement mensuel d'acompte PAS
+UID:ea360f10c64d5fce1b50a26249522fc51712ed2b@calendrier-fiscal-particulier-impots
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:Pour tous les impôts mensualisés (taxes foncières et d'habitation\, impôt sur la fortune immobilière et CFE).\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal/2026-10
 SUMMARY:10ème prélèvement mensuel
 UID:38ba2f5df98ca357c9d31b34c15cb04b1fedc9a3@calendrier-fiscal-particulier-impots
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Pour tous les impôts mensualisés (taxes foncières et d'habitation\, impôt sur la fortune immobilière et CFE).\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal/2026-07
-SUMMARY:7ème prélèvement mensuel
-UID:c6695101325f703b174eda2a33ad2b441d7896be@calendrier-fiscal-particulier-impots
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
@@ -134,22 +116,16 @@ SUMMARY:8ème prélèvement mensuel ou 3ème prélèvement trimestriel d'acompte
 UID:87390a2f61d02e62dc92afeebcf31171d27d6d39@calendrier-fiscal-particulier-impots
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:À partir du 29 juillet 2026\, vous pouvez corriger votre déclaration en ligne des revenus 2025.\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal/2026-07
-SUMMARY:Ouverture du service de correction de la déclaration en ligne
-UID:a419740da513c9e75ca9be48de9b409caf519eab@calendrier-fiscal-particulier-impots
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-DESCRIPTION:Pour tous les impôts mensualisés (taxes foncières et d'habitation\, impôt sur la fortune immobilière et CFE).\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal
-SUMMARY:6ème prélèvement mensuel
-UID:effac98a983c81a3d09daa520de56b7819fd1ef9@calendrier-fiscal-particulier-impots
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
 DESCRIPTION:Si le montant restant à payer de votre impôt sur les revenus est supérieur à 300 €\, la somme due est prélevée en quatre échéances du 25 septembre au 28 décembre 2026. La 3ème échéance est prélevée le 25 novembre 2026.\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal/2026-11
 SUMMARY:Impôt sur le revenu-prélèvements sociaux : 3ème prélèvement
 UID:3a9beb996e128012f36c6b1a1cbd239eff4c4d32@calendrier-fiscal-particulier-impots
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:Pour tous les impôts mensualisés (taxes foncières et d'habitation\, impôt sur la fortune immobilière et CFE).\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal
+SUMMARY:7ème prélèvement mensuel
+UID:8f9f97a911b9a50ff0f47ec3ccbcc499f3b5c657@calendrier-fiscal-particulier-impots
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
@@ -206,6 +182,12 @@ SUMMARY:9ème prélèvement mensuel d'acompte PAS
 UID:83f77a49a6dd72957ddb6526afd8ff709fc4dd5d@calendrier-fiscal-particulier-impots
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:À partir du 29 juillet 2026\, vous pouvez corriger votre déclaration en ligne des revenus 2025.\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal
+SUMMARY:Ouverture du service de correction de la déclaration en ligne
+UID:990ea5f7e8fc37d7d0b336762d85d16107338a5f@calendrier-fiscal-particulier-impots
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:Acompte au titre du prélèvement à la source des revenus sans collecteurs (revenus des indépendants ou agriculteurs\, revenus fonciers\, pensions alimentaires…).\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal/2026-10
 SUMMARY:10ème prélèvement mensuel d'acompte PAS
@@ -216,11 +198,5 @@ DTSTART;VALUE=DATE:20260920
 DESCRIPTION:Vous avez jusqu'au 20 septembre 2026 minuit pour payer en ligne votre impôt sur la fortune immobilière. Le prélèvement sera effectué à compter du 25 septembre 2026.\nSi la date limite de paiement est au 16 novembre 2026\, vous avez jusqu'au 21 novembre minuit pour le payer en ligne\, le prélèvement sera effectué à compter du 26 novembre 2026.\nVous êtes informé de la date de prélèvement lors de l'enregistrement de votre ordre de paiement.\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal/2026-09
 SUMMARY:Impôt sur la fortune immobilière : paiement par internet\, smartphone ou tablette
 UID:4efecbd7f8f6001be4d46f58c45c0e1733a638b5@calendrier-fiscal-particulier-impots
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DESCRIPTION:Si vous adhérez par internet ou auprès du centre de contact\, vous avez jusqu'à cette date pour choisir le prélèvement mensuel avec effet en 2026.\nLe 1er prélèvement interviendra à compter du 15 du mois suivant.\nSource : https://www.impots.gouv.fr/particulier/calendrier-fiscal
-SUMMARY:Date limite d'adhésion au prélèvement mensuel pour 2026
-UID:c1c69f29ba7aac1d83454db743e2ae8ed9db46a9@calendrier-fiscal-particulier-impots
 END:VEVENT
 END:VCALENDAR
